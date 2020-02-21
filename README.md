@@ -10,9 +10,9 @@ An Affordable Airline
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Our Frequent Flyers Program 
 
-# Header 1
+- Do you fly so often you might as well be getting paid?
 ## Header 2
 ### Header 3
 
